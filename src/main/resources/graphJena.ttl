@@ -1,0 +1,7 @@
+<http://www.example.com/EDBT>
+        a       <http://www.example.com/Conference> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International Conference on Extending Database Technology" .
+
+<http://www.example.com/ISWC>
+        a       <http://www.example.com/Conference> .
